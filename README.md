@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou Sarah e seja bem-vindo(a) ao meu perfil! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
+<p align="left">Olá! Eu sou Sarah e seja bem-vindo(a) ao meu perfil! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ </p>
 
 ###
 
