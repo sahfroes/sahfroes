@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎀 Sobre mim:<br> Estou cursando Sistemas para Internet (2/5)<br> Atualmente faço estágio em suporte de manutenção<br> ❀ Pronomes: Ela/dela</p>
+<p align="left">🎀 Sobre mim:<br> Estou cursando Sistemas para Internet (3/5)<br> Atualmente faço estágio em suporte de manutenção<br> ❀ Pronomes: Ela/dela</p>
 
 ###
 
