@@ -1,18 +1,21 @@
 <img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif"  />
 
-###
 
 <p align="left">Olá! Eu sou Sarah e seja bem-vindo(a) ao meu perfil! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ </p>
 
-###
 
-<p align="left">🎀 Sobre mim:<br> Estou cursando Sistemas para Internet (3/5)<br> Atualmente faço estágio em suporte de manutenção no Conselho Federal de Farmácia<br> ❀ Pronomes: Ela/dela</p>
 
-###
+### 🎀 Sobre mim
+🌸 Estudante de **Sistemas para Internet (3/5)**  
+💻 Estagiando em **suporte de manutenção** no **Conselho Federal de Farmácia**  
+🌷 Pronomes: **Ela/Dela**  
+☕ Amo tecnologia e design 
 
-<p align="left">💬 Contatos:<br>email: sarahfroes2005@gmail.com<br>discord: frozinha_15</p>
 
-###
+### 💬 Contatos
+
+- 📧 **Email**: sarahfroes2005@gmail.com   
+- 💬 **Discord**: frozinha_15  
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -23,7 +26,7 @@
 
 ###
 
-<p align="left">  ִֶָ☾ Linguagens </p>
+###  ִֶָ☾ Linguagens
 
 ###
 
@@ -43,10 +46,18 @@
 
 ###
 
+### 🌷 Meus status no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahfroes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahfroes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahfroes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=ffb6c1&icon_color=ffb6c1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahfroes&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=ffb6c1" height="150" alt="languages graph" />
 </div>
+
+
+
+
+
+
+
 
 
 
