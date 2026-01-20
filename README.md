@@ -6,7 +6,7 @@
 
 
 ### 🎀 Sobre mim
-🌸 Estudante de **Sistemas para Internet (3/5)**  
+🌸 Estudante de **Sistemas para Internet (4/5)**  
 💻 Estagiando em **suporte de manutenção** no **Conselho Federal de Farmácia**  
 🌷 Pronomes: **Ela/Dela**  
 ☕ Amo tecnologia e design 
