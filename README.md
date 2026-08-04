@@ -1,6 +1,7 @@
 <img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif"  />
 
 
+
 <p align="left">Olá! Eu sou Sarah e seja bem-vindo(a) ao meu perfil! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ </p>
 
 
