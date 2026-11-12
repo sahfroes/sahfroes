@@ -6,9 +6,9 @@
 <tr>
 <td align="center" valign="middle">
 
-<h1>୨୧ Olá, eu sou a Sarah!</h1>
+<h1>୨୧ Olá, eu sou a Sarah 𓂃 ࣪˖ ִֶָ🐇་༘࿐ </h1>
 
-<h3>Desenvolvedora em formação | Sistemas para Internet</h3>
+<h3> Desenvolvedora em formação | Sistemas para Internet</h3>
 
 <p>Bem-vindo(a) ao meu GitHub </p>
 
@@ -106,7 +106,7 @@
 
 ### 🌸 Obrigada pela visita!
 
-*Transformando ideias em código, um projeto de cada vez.*
+*Transformando ideias em código, um projeto de cada vez  ִֶָ☾*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A3C7,50:8F416B,100:160B14&height=100&section=footer" />
 
