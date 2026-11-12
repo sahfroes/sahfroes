@@ -1,62 +1,113 @@
-<img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif"  />
-<img align="left" src="https://ywh555hhh.github.io/EmoGdream/stickers/soyo/soyo_smile.webp" alt="soyo_smile.webp" width="30" align="absmiddle">
-
-
-<p align="left">Olá! Eu sou Sarah e seja bem-vindo(a) ao meu perfil! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ </p>
-
-
-
-### 🎀 Sobre mim
-🌸 Estudante de **Sistemas para Internet (5/5)**  
-💻 Estagiando em **suporte de manutenção** no **Conselho Federal de Farmácia**  
-🌷 Pronomes: **Ela/Dela**  
-☕ Amo tecnologia e design 
-
-
-### 💬 Contatos
-
-- 📧 **Email**: sarahfroes2005@gmail.com   
-- 💬 **Discord**: frozinha_15  
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-###  ִֶָ☾ Linguagens
-
-###
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-</p>
-
-###
-
-### 🌷 Meus status no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahfroes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=ffb6c1&icon_color=ffb6c1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahfroes&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=ffb6c1" height="150" alt="languages graph" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160B14,50:8F416B,100:F5A3C7&height=180&section=header&text=Sarah%20Fróes&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Technology%20%7C%20Design&descAlignY=60&descSize=15" />
+
+<table border="0">
+<tr>
+<td align="center" valign="middle">
+
+<h1>୨୧ Olá, eu sou a Sarah!</h1>
+
+<h3>Desenvolvedora em formação | Sistemas para Internet</h3>
+
+<p>Bem-vindo(a) ao meu GitHub </p>
+
+<a href="mailto:sarahfroes2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF8FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sahfroes">
+<img src="https://img.shields.io/badge/GitHub-17121A?style=for-the-badge&logo=github&logoColor=FFB6D0"/>
+</a>
+
+<a href="www.linkedin.com/in/sarah-fróes-de-barros-leite-43b354309">
+  <img src="https://img.shields.io/badge/LinkedIn-8F416B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+
+<td align="center" valign="middle">
+
+<img height="180" src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
+---
 
+---
 
+## 🎀 Sobre mim
 
+<img align="right" width="115" src="https://ywh555hhh.github.io/EmoGdream/stickers/soyo/soyo_smile.webp" />
 
+- 🌸 Estudante de **Sistemas para Internet (5/5)**
+- 💻 Estagiei em suporte de manutenção no **Conselho Federal de Farmácia**
+- 🌷 Pronomes: **Ela/Dela**
+- ☕ Apaixonada por tecnologia e design
+- 🎨 Interessada em desenvolvimento web e interfaces
 
+<br clear="both"/>
 
+---
 
+## 🌷 GitHub Statistics
 
+<div align="center">
 
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=sahfroes&theme=dark&hide_border=true&background=0D1117&ring=FF8FB1&fire=FF6FA5&currStreakLabel=FFB6D0&sideLabels=FFB6D0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+</div>
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+<div align="center">
+
+### Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,swift&theme=dark" />
+
+### Banco de dados & ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahfroes&bg_color=0D1117&color=FFB6D0&line=FF8FB1&point=FFFFFF&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" />
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=sahfroes&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&title_color=FF8FB1" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Obrigada pela visita!
+
+*Transformando ideias em código, um projeto de cada vez.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A3C7,50:8F416B,100:160B14&height=100&section=footer" />
+
+</div>
